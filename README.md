@@ -1,4 +1,3 @@
-```markdown
 # Smart Home App
 
 **Course:** CSC440 Human-Computer Interaction (1st Semester 1446)  
@@ -56,12 +55,7 @@ Modern smart home solutions often sacrifice usability for functionality, leaving
 - **Usability Testing:** Facilitator scripts, consent forms, post-test questionnaires  
 - **Documentation:** Microsoft Word (Final Report)
 
-## How to Explore
-1. **View Prototypes:** Open Figma links provided in the report appendix.  
-2. **Run Usability Scripts:** See `Appendix` for consent form and facilitator script.  
-3. **Review Findings:** Read the Final Report (PDF) for detailed analysis and recommendations.
 
 ---
 
-*For inquiries or feedback, contact the project lead: lama.alotibie@ksu.edu.sa*  
 ```
