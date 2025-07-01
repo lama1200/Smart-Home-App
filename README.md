@@ -1,7 +1,7 @@
 # Smart Home App
 
 **Course:** CSC440 Human-Computer Interaction (1st Semester 1446)  
-**Team:** Group #4 – King Saud University, Computer Science Department
+ King Saud University, Computer Science Department
 
 **Group Members:**
 - Maymona Alotaibi 
